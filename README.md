@@ -6,6 +6,6 @@
 
 #### All of the projects contents can be in the folders mentioned below.
 
-* Presentation slides & powerpoint are found in
+* Presentation slides & powerpoint are found [here](/presentation/)
 * Source Code is found in
 * Documentation & Resources are found in
